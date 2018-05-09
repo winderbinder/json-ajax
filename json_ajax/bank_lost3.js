@@ -1,6 +1,6 @@
 let banks [
   {
-    "american_first": "$100",
+    "wells_fargo": "$100",
     "goodbank": "no",
     "pros_and_cons": {
       "pros": "big bank"
@@ -8,7 +8,7 @@ let banks [
     }
   }
   {
-    "granite_credit_union": "$2120",
+    "chartway_credit_union": "$2120",
     "goodbank": "yes",
     "pros_and_cons": {
       "pros": "cool bank"
