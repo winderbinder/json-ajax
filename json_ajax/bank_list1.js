@@ -1,4 +1,4 @@
-let banks [
+let banks = [
   {
     "american_first": "$100",
     "goodbank": "no",
